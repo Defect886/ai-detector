@@ -1,0 +1,5 @@
+fastapi
+uvicorn
+supabase
+firecrawl-py
+python-dotenv
